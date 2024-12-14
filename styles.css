@@ -1,4 +1,4 @@
-/* General Styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -841,7 +841,7 @@ h2 >span{
     justify-content: space-between;
     margin-top: 1px;
     padding: 20px;
-    background-color: #f0f0f0; /* Adjust the color as per your design */
+    background-color: #f0f0f0; 
    border-top: 1px solid #ddd;
 }
 
@@ -875,7 +875,7 @@ h2 >span{
     line-height: 1.6;
 }
 
-/* Styling for social media icons */
+
 .footer-social {
     margin-top: 15px;
     display: flex;
@@ -890,13 +890,13 @@ h2 >span{
 }
 
 .footer-social a:hover {
-    color: #007BFF; /* Highlight color on hover */
+    color: #007BFF; 
 }
 .footer-social a .fa-instagram {
      color: rgb(227, 221, 210); 
      padding:10px,10px;
      background-color: #eb950c;
-     border-radius: 200px;/* Instagram logo in orange */ } 
+     border-radius: 200px;} 
 .footer-social a .fa-facebook-f, .footer-social a .fa-twitter {
     
     color:black; 
@@ -944,13 +944,13 @@ h2 >span{
 .rights {
     text-align: start;
     padding: 10px;
-    background-color: #efeeee; /* Footer bottom background */
+    background-color: #efeeee; 
     color: #cac6c6;
     font-size: 12px;
     margin-left: 12em;
 }
 
-.footer-info p { margin: 0; color: rgb(164, 160, 160); /* Or any other color that fits your design */ } 
+.footer-info p { margin: 0; color: rgb(164, 160, 160); } 
 .footer-info .terms
  { margin-left: 50em;
     bottom: 10em;
